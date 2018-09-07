@@ -3,4 +3,4 @@ git is so strong
 git has a mutable index  called stage
 git tracks changes of file
 create a new branch is quick AND simple
---no-ff
+--no-ff <the bug is modified>
