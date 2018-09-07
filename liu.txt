@@ -1,3 +1,4 @@
 git is free
 git is so strong
 git has a mutable index  called stage
+git tracks changes
