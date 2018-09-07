@@ -1,6 +1,6 @@
-git is free
-git is so strong
-git has a mutable index  called stage
-git tracks changes of file
-create a new branch is quick AND simple
---no-ff <the bug is modified>
+1.git is free
+2.git is so strong
+3.git has a mutable index  called stage
+4.git tracks changes of file
+5.create a new branch is quick AND simple
+7.--no-ff <the bug is modified>
